@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> About us</title>
+<style>
+#wrap{
+		width: 95%;
+		margin:0 auto;
+		background-color: #F8F8F8 ;}
+	
+	img.logo {
+		width: 200px;
+		height: 100px;
+		}
+	
+	ul.button {
+		background-color: #0099FF;
+		color: white;
+		font-family:Tahoma, Geneva, sans-serif;
+		font-weight: bold;
+		font-size: 15px;
+		margin: 20px;
+		padding: 10px;
+		}
+	
+	li{ 
+		display:inline;
+		padding: 80px;
+	}
+	
+	a {
+		text-decoration: none;
+		color: white;
+		}
+	a:hover {
+		color: #00FFFF;}
+		
+	h1 {
+		font-family: "Arial Black", Gadget, sans-serif;
+		color: #0099FF;
+		font-size: 30px;
+		margin-left:30px;
+		text-decoration:underline;
+		}
+	
+	p {
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: center;
+		text-align:left;
+		margin-left:100px;
+		
+		}
+</style>
+</head>
+<body>
+<div id="wrap">
+	<span class="logo">
+		<img class="logo" src="medical-centre-logo.png" alt="Medical Center Logo" />
+	</span>
+	
+	
+	<ul class="button">
+		<li> <a href="index.html">Home</a>      </li>
+		<li> <a href="index1.html">Products</a>  </li>
+		<li> <a href="index2.html">About Us</a>   </li>
+		<li> <a href="index3.html">Distributers</a>  </li>
+	</ul>
+	
+	<h1>About Us</h1>
+	<p>Pfizer Pakistan has been working for the health and well-being of people 
+	in Pakistan since 1959. Pfizer Inc. Chief Executive, Mr. John J Powers Jr.  
+	Laid the foundations for the first plant to be established in the industrial 
+	port area of West Wharf on 5th of February, 1959. The first collaboration was 
+	with local distributor, Dumex which led to the distribution of Pfizer products 
+	as manufacturing fully started in the year 1961.<br />
+	We are committed to delivering novel medicines to fulfill some of the unmet 
+	medical needs of patients. The very purpose of our existence is to work with 
+	the nation for a healthier Pakistan and build invigorating, empowered communities.
+	Pfizer Pakistan has always remained instrumental in addressing the healthcare 
+	challenges faced by the country, meeting them by providing the expertise the 
+	company holds in this sector.<br />
+	At pifzer Pakistan, we provide access to safe, innovative and affordable 
+	medicines to millions of Pakistanis. Having a portfolio of medicines that prevent, 
+	treat and cure diseases across a range of therapeutic areas allows Pfizer Pakistan 
+	to enjoy the reputation of being a leading drug maker in the country.
+	pifzer Pakistan affiliate provides livelihoods to thousands of households 
+	directly and indirectly and employs over 1000 people. The Pakistan affiliate 
+	is also responsible for managing distribution networks in Afghanistan.</p>
+</body>
+</html>

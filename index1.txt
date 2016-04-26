@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Products</title>
+<style>
+#wrap{
+		width: 95%;
+		margin:0 auto;
+		background-color: #F8F8F8;
+		}
+	
+	img.logo {
+		width: 200px;
+		height: 100px;
+		}
+	
+	ul.button {
+		background-color: #0099FF;
+		color: white;
+		font-family:Tahoma, Geneva, sans-serif;
+		font-weight: bold;
+		font-size: 15px;
+		margin: 20px;
+		padding: 10px;
+		}
+	
+	li.nav { 
+		display:inline;
+		padding: 80px;
+		}
+	
+	a.nav {
+		text-decoration: none;
+		color: white;
+		}
+	
+	a:hover {
+		color: #00FFFF;
+		}
+		
+	
+		
+	h3 {
+		font-family:Georgia, serif;
+		margin-left: 30px;
+		}
+		
+	p {
+		text-align: justify;
+		font-family:Times New Roman", Times, serif;}
+		
+		
+		
+</style>
+</head>
+<body>
+<div id="wrap">
+	<span class="logo">
+		<img class="logo" src="medical-centre-logo.png" alt="Medical Center Logo" />
+	</span>
+	
+	
+	<ul class="button">
+		<li class="nav"> <a class="nav" href="index.html">Home</a>  </li>
+		<li class="nav"> <a class="nav" href="index1.html">Products</a>  		</li>
+		<li class="nav"> <a class="nav" href="index2.html">About Us</a>   		</li>
+		<li class="nav"> <a class="nav" href="index3.html">Distributers</a>  		</li>
+	</ul>
+	
+	<h1 id="top">Products</h1>
+	
+	<ol>
+		<li> <a href="#ABOCAIN">ABOCAIN SPINAL INJECTION </a></li>
+		<li> <a href="#BRUFEN">BRUFEN TABLET 200MG</a>		</li>
+		<li> <a href="#COFCOL">COFCOL</a>					</li>
+		<li> <a href="#DIJEX">DIJEX MP SUSPENSION</a>		</li>
+		<li> <a href="#ENTAMIZOLE">ENTAMIZOLE TABLET</a>	</li>
+		<li> <a href="#FLEXIN">FLEXIN TABLET</a>			</li>
+		<li> <a href="#GANATON">GANATON</a>					</li>
+		<li> <a href="#HYTRIN">HYTRIN 1 mg</a>				</li>
+		<li> <a href="#IBERET">IBERET FOLIC-500 GRADUMET</a></li>
+		<li> <a href="#KLARICID">KLARICID GRANULES</a>		</li>
+	</ol>
+	
+	
+	
+	<h3 id="ABOCAIN">ABOCAIN SPINAL INJECTION</h3>
+		<p><b>Ingredient(s):</b> Each ml of solution contains:<br /> 
+		Bupivicaine Hcl : 7.5mg<br />
+		Dextrose anhydrous : 82.5mg<br />
+		<b>Indications:</b> Production of subarachnoid block (spinal anesthesia)<br />
+		<b>Pack Size:</b>  5 ampoules in carton</p>
+		
+	<h3 id="BRUFEN">BRUFEN TABLET 200MG</h3>
+		<p><b>Ingredient(s):</b> Each tablet contains: <br />
+		Ibuprofen : 200 mg <br />
+		<b>Indications:</b> Rheumatoid arthritis including juvenile rheumatoid 
+		arthritis or still's disease, ankylosing spondylitis, osteoarthritis, 
+		other non-rheumatoid (seronegative) arthropathies and acute gouty 
+		arthritis and periarticular conditions such as frozen shoulder 
+		(capsulitis), bursitis, tendonitis, tenosynovitis and low-back pain. 
+		Soft tissue injuries. Mild to moderate pain such as dysmenorrhoea, 
+		dental and post operative pain. Symptomatic relief of headache 
+		including migraine headache.<br />
+		<b>Pack size:</b>    25x10s in carton</p>
+		
+	<h3 id="COFCOL">COFCOL</h3>
+		<p><b>Ingredient(s):</b> Each Cofcol tablet or each tablespoon (15ml) of Cofcol Elixir provides:<br /> 
+		Paracetamol ....................325mg <br />
+		Pseudoephedrine HCl ...........30 mg <br />
+		Chlorpheniramine maleate...........1 mg<br /> 
+		Dextromethorphan HBr ...........10 mg <br />
+		Vitamin C ......................50 mg<br />
+		<b>Indications:</b> COFCOL tablets and elixir are indicated for 
+		both adults and children for the relief of the following symptoms 
+		associated with influenza, colds, allergies, and other upper respiratory disorders:
+		Fever.
+		Headache, pain, general discomfort.
+		Nasal congestion.
+		Rhinitis.
+		Coughing (non-productive).<br />
+		<b>Pack Size:</b>     
+		Cofcol Elixir 120ml bottle 
+		Cofcol Tablets 25x10s in carton</p>
+	
+	<h3 id="DIJEX">DIJEX MP SUSPENSION</h3>
+		<p><b>Ingredient(s):</b> Each 5ml contains: <br />
+		Aluminium hydroxide 215mg<br />
+		Magnesium hydroxide 80mg<br />
+		Simethicone (Activated Methylpolysiloxane) 25mg<br />
+		<b>Indications:</b> For the relief of symptoms associated with flatulent dyspepsia, 
+		acid indigestion and peptic ulcer.<br />
+		<b>Pack Size:</b>120ml in bottle</p>
+	
+	<h3 id="ENTAMIZOLE">ENTAMIZOLE TABLET </h3>
+		<p>	<b>Ingredient(s):</b> Each tab contains:<br /> 
+		Diloxanide furoate 250mg<br />
+		Metronidazole 200mg<br />
+		<b>Indications:</b> Acute amoebiasis, Chronic amoebiasis, Hepatic amoebiasis and other
+		systemic diseases due to E. histolytica, Giardiasis.<br />
+		<b>Pack Size:</b>   3x10s in carton</p>
+	
+	<h3 id="FLEXIN">FLEXIN TABLET </h3>
+		<p><b>Ingredient(s):</b> Naproxen 250 mg<br />
+		<b>Indications:</b> Flexin (naproxen) is indicated for the treatment of rheumatoid arthritis, 
+		osteoarthritis, juvenile arthritis, ankylosing spondylitis, tendinitis, bursitis & acute gout. 
+		is also indicated in the relief of mild to moderate pain & for the treatment of primary dysmenorrhea.<br />
+		<b>Pack Size:</b>    2x10s in carton </p>
+		
+	<h3 id="GANATON">GANATON</h3>
+		<p><b>Ingredient(s):</b> Each tab contains: <br />
+		Itopride hydrochloride 50mg<br />
+		<b>Indications:</b> Itopride hydrochloride is used in the treatment of gastrointestinal 
+		symptoms of functional, nonulcer dyspepsia (chronic gastritis) i.e., sensation of bloating, 
+		early satiety, upper abdominal pain or discomfort, anorexia, heartburn, nausea and vomiting.<br />
+		<b>Pack Size:</b>    3x10s in carton
+	</p>
+	
+	<h3 id="HYTRIN">HYTRIN 1 mg</h3>
+		<p><b>Ingredient(s):</b> Each tablet contains Terazosin HCl 1 mg<br />
+		<b>Indications :</b> To relieve the signs & symptoms of Benign Prostatic Hyperplasia (BPH). 
+		Also used alone or in combination with other antihypertensive agents for treatment of hypertension.<br />
+		<b>Pack Size:</b>    3x10s in carton
+		</p>
+	
+	<h3 id="IBERET">IBERET FOLIC-500 GRADUMET </h3>
+		<p><b>Ingredient(s):</b> Gradumet Tablet: Ferrous sulphate 525 (represent 105mg of elemental iron), 
+		Folic Acid 800mcg,Vit C 500mg, B1 6mg,,B2 6mg, B6 5mg, B12 25mcg, Nicotiamide 30 mg, Calcium pantothenate 
+		10mg. In a controlled released dosage form Gradumet.<br />
+		<b>Indications:</b> Prophylaxis and treatment of iron & folic acid deficiency and nutritional 
+		anaemia, especially indicated throughout pregnancy and lactation. Prevention of concomitant 
+		folic acid deficiency.<br />
+		<b>Pack Size:</b> 30s bottle in carton</p>
+	
+	<h3 id="KLARICID">KLARICID GRANULES</h3>
+		<p><b>Ingredient(s):</b> Each 5ml teaspoonful contains: Clarithromycin USP 125 mg<br />
+		<b>Indications:</b> Klaricid Granules is indicated for treatment of infections due to susceptible organisms, in the following conditions:
+		Upper respiratory infections (e.g., streptococcal pharyngitis).<br />
+		Lower respiratory infections (e.g., bronchitis, pneumonia).	<br />
+		Acute otitis media.
+		Skin and skin structure infections (e.g., impetigo, folliculitis, cellulitis, abscesses).<br />
+		Disseminated or localized mycobacterial infections due to Mycobacterium avium or Mycobacterium 
+		intracellulare. Localized infections due to Mycobacterium chelonae, Mycobacterium fortuitum, 
+		or Mycobacterium kansasii.<br />
+		<b>Pack Size:</b>    60ml bottle in carton
+		</p>
+		
+		<p><a href="#top">BACK TO TOP</a></p>
+		
+</div>
+</body>
+</html>

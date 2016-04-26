@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hill Medical Center</title>
+<style>
+	
+	#wrap{
+		width: 95%;
+		margin:0 auto;
+		background-color: #F8F8F8 ;}
+	
+	img.logo {
+		width: 200px;
+		height: 100px;
+		}
+	
+	ul.button {
+		background-color: #0099FF;
+		color: white;
+		font-family:Tahoma, Geneva, sans-serif;
+		font-weight: bold;
+		font-size: 15px;
+		margin: 20px;
+		padding: 10px;
+		}
+	
+	li{ 
+		display:inline;
+		padding: 80px;
+	}
+	
+	a {
+		text-decoration: none;
+		color: white;
+		}
+	a:hover {
+		color: #00FFFF;}
+		
+	.one {
+		width:940px;
+		height:350px;
+		margin-left:0px;
+		}
+	
+	.two {
+		margin-left:20px;
+		}
+		
+	.three {
+		margin-left:20px;}
+		
+	.four {
+		margin-left: 20px;}
+	
+	table{
+		
+		border-spacing: 30px 5px;
+		padding-left:80px;
+		padding-right:80px;
+		margin-left:30px;
+		background-color:#0099FF;
+		}
+	
+	td {
+		width:200px;
+		margin-left: 20px;
+		
+		}
+		
+	tr {
+		margin: 20px;
+		}
+		
+	th {
+		border-top: 1px solid black;
+		border-bottom: 2px solid black;
+		}
+		
+	td.price {
+		text-align: right;
+		font-size: 20px;
+		font-weight: bold;
+		text-decoration:underline;
+		}
+</style>
+</head>
+<body>
+<div id="wrap">
+	<span class="logo">
+		<img class="logo" src="medical-centre-logo.png" alt="Medical Center Logo" />
+	</span>
+	
+	
+	<ul class="button">
+		<li> <a href="#">Home</a>      </li>
+		<li> <a href="index1.html">Products</a>  </li>
+		<li> <a href="index2.html">About Us</a>   </li>
+		<li> <a href="index3.html">Distributers</a>  </li>
+	</ul>
+	
+	<div>
+		<img class="one" src="GROUP_DOCTORS.jpg" alt="Picture" />
+	</div>
+	
+	<!--
+	<span class="two">
+	<img src="surgical-2.jpg" alt="Surgical instrument" width="200px" height="200px" />
+	</span>
+	
+	<span class="three"> 
+		<img src="freestyle-lite-glucometer-side-view.jpg" alt="Glucometer" width="200px" height="200px" />
+	</span>
+	
+	<span class="four">
+		<img src="omron-m6-blood-pressure-mon.gif" alt="Blood pressure test machine" width="200" height="200px" />
+	</span>
+	-->
+	
+	
+	
+	
+	
+	
+	<table>
+		<tr>
+			<th>Surgical</th>
+			<th>Glucometer</th>
+			<th> BP Tester</th>
+		</tr>
+		
+		<tr>
+			<td>
+				<a href="http://ssinstruments.biz/">
+					<img src="surgical-2.jpg" alt="Surgical instrument" width="200px" height="200px" />
+				</a>
+			</td>
+	
+			<td>
+				<a href="https://www.myfreestyle.com/freestyle-lite-overview">
+					<img src="freestyle-lite-glucometer-side-view.jpg" alt="Glucometer" width="200px" height="200px" />
+				</a>
+			</td>
+	
+			<td>
+				<a href="http://www.omron-healthcare.com/en/products/bloodpressuremonitoring">
+					<img src="omron-m6-blood-pressure-mon.gif" alt="Blood pressure test machine" width="200" height="200px" />
+				</a>
+			</td>
+		
+		<tr>
+			<td>The century begins with new dynamics 
+			in the world of business especially in 
+			Surgical Instruments Business where Sialkot 
+			Surgical Instruments Pvt. Ltd., being one 
+			of the leading manufactures and exporters of 
+			Surgical, Veterinary, Dental Instruments 
+			and Scissors and all sorts in Sialkot City, 
+			Pakistan, had put together year's hard work 
+			and dedication in adding more and more 
+			instruments in the range. </td>
+			
+			<td>you are out and about 
+			so you need a meter that goes
+			with you. The discreet freestyle life
+			blood glucose monitering system 
+			gives you accuraate result 
+			form a tiny blood sample. Plus, it has a 
+			convenient backlight and test strip
+			port light, so you can test any time.</td>
+			
+			
+			<td> Omron unique Intelli Wrap Cuff 
+			reduces the inaccuracy caused by incorrect 
+			cuff positioning known to be a key source 
+			of error in home blood pressure measurement.
+			Intelli Wrap Cuff reduces the impact of 
+			incorrect cuff placement on accuracy. 
+			The pre-formed cuff is easy to put on to your 
+			upper arm with one hand, making blood pressure 
+			measurement even simpler.</td>
+		</tr>
+		
+		<tr> 
+			<td class="price"> Price 220$</td>
+			<td class="price"> Price 150$</td>
+			<td class="price"> Price 200$</td>
+		</tr>
+	</table>
+	
+	
+	
+<footer>
+	<address>
+		Address: ZAFA Pharmaceutical laboratories, L -1/B, Block 22, Federal B Industrial Area, Karachi.<br />
+		Ph: 021-36807100 <br />
+		Email: zafaph@cyber.net.pk <br />
+		Website: www.zafa.com.pk <br />
+	</address>
+</footer>
+	
+</div>
+</body>
+</html>

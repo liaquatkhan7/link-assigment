@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Distributers</title>
+<style>
+#wrap{
+		width: 95%;
+		margin:0 auto;
+		background-color: #F8F8F8 ;}
+	
+	img.logo {
+		width: 200px;
+		height: 100px;
+		}
+	
+	ul.button {
+		background-color: #0099FF;
+		color: white;
+		font-family:Tahoma, Geneva, sans-serif;
+		font-weight: bold;
+		font-size: 15px;
+		margin: 20px;
+		padding: 10px;
+		}
+	
+	li{ 
+		display:inline;
+		padding: 80px;
+	}
+	
+	a {
+		text-decoration: none;
+		color: white;
+		}
+	a:hover {
+		color: #00FFFF;}
+	
+	.one {
+		width:940px;
+		height: auto;
+		}
+		
+	aside {
+			float: left;
+			}
+</style>
+</head>
+<body>
+<div id="wrap">
+	<span class="logo">
+		<img class="logo" src="medical-centre-logo.png" alt="Medical Center Logo" />
+	</span>
+	
+	
+	<ul class="button">
+		<li> <a href="index.html">Home</a>      </li>
+		<li> <a href="index1.html">Products</a>  </li>
+		<li> <a href="index2.html">About Us</a>   </li>
+		<li> <a href="index3.html">Distributers</a>  </li>
+	</ul>
+	
+	<div class="one">
+		<img src="warehouse-pano_21164.jpg" alt="title image" width="940px" height="300px" />
+	</div>
+	
+	<h3>UDL Karachi East</h3>
+		<p>73-K, Block # 6 P.E.C.H.S.<br />
+		Tel: 92-21-4545910,4530092,4542902</p>
+	<h3>Karachi North</h3>
+		<p>F-94, Block-B North Nazimabad<br />
+		Tel: 92-21-36647315, 36675975</p>
+	<h3>UDL Karachi South</h3>
+		<p>15-C, KPT. Warehousing Area, M.T. Khan Road<br />
+		Tel: 92-21-35612183</p>
+	<h3>UDL</h3>
+		<p>14-H, Block 6 P.E.C.H.S.<br />
+		Tel: 92-21-34547850-54, 111555444</p>
+	<h3>Real Channel</h3>
+		<p>1st Floor CC-5 Block 8, Clifton Karachi<br />
+		Tel: 92-21-35837472</p>
+	
+</div>
+</body>
+</html>
